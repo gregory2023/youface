@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+local_client/usuarios_registrados/
+yolov8n.pt
